@@ -1,13 +1,4 @@
-<h1 align=center>
- <img align=center width="100%" src="https://www.codenameone.com/wp-content/uploads/2021/08/CN1-Banner-Dark-Blue.jpg" />
-</h1>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/codenameone/CodenameOne?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/codenameone/CodenameOne?color=orange&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/codenameone/CodenameOne?color=success&style=flat-square)
-![GitHub license](https://img.shields.io/badge/license-GPL%20%2B%20CE-FFFF00?style=flat-square)
-[![Hacktoberfest](https://img.shields.io/badge/hacktoberfest-friendly-blueviolet?style=flat-square)](https://github.com/codenameone/CodenameOne/labels/Hacktoberfest)
-[![GitHub Stars](https://img.shields.io/github/stars/codenameone/CodenameOne?label=GitHub%20stars&style=social)](https://github.com/codenameone/CodenameOne/stargazers/)
+nameOne/stargazers/)
 
 ## Codename One - Cross Platform Native Apps with Java or Kotlin
 
@@ -32,15 +23,7 @@ It's a complete mobile platform featuring virtual machines, simulator, design to
 - Has Full access to underlying native OS capabilities using the native OS programming language (e.g. Objective-C) without compromising portability
 - Has full control over every pixel on the screen! Just override paint and draw or use a glass pane to draw anywhere...
 - Lets you use native widgets (views) and mix them with Codename One components within the same hierarchy (heavyweight/lightweight mixing)
-- Supports seamless Continuous Integration out of the box
-
-<br>
-
-#### ✨ &nbsp; Here are some concrete benefits you can get with Codename One:
-
-<br>
-
-<img align="right" src="https://www.codenameone.com/img/github/content/runs-instantly.png" height="200">
+- Supports seamless Continuous Integraguns-instantly.png" height="200">
 
 ### Codename One's Simulator Runs Instantly
 
